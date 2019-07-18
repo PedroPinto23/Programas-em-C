@@ -1,1 +1,2 @@
-Teste
+Alguns exercícios feitos em C
+
